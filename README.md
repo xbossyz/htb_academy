@@ -18,4 +18,4 @@ _______________________________________________________________________
 
 Para más write-ups no dudeís en apoyar. Saludos cordiales a todos. ❤
 
-Contacto discord para comprometer maquinas de HTB. 
+__Contacto discord para comprometer maquinas de HTB o resolver dudas.__ 
