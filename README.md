@@ -10,9 +10,12 @@ _______________________________________________________________________
 
 __El documento se encuentra protegido con contraseña:__
 
-La contraseña se encuentra en el fichero /etc/shadow, es el hash del usuario "root"
+La contraseña se encuentra en el fichero /etc/shadow, es el hash del usuario "root" en la máquina Academy
 
 Password: Hao*****************************v./
 
 _______________________________________________________________________
 
+Para más write-ups no dudeís en apoyar. Saludos cordiales a todos. ❤
+
+Contacto discord para comprometer maquinas de HTB. 
